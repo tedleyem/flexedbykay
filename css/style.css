@@ -1635,6 +1635,12 @@ blockquote {
     word-break: break-word;
     z-index: 1;
   }
+
+  .navbar-brand img {
+    max-width: auto;
+    max-height: auto;
+  }
+
   .cid-tZbsva2jGn  .navbar-brand img {
     max-width: 100%;
     max-height: 100%;
@@ -2466,7 +2472,7 @@ blockquote {
   background: #0c85d0;
 }
 .cid-tZbsva87jv .bg-instagram {
-  background: #f00075;
+  background: #ffd7ef;
   color: #ffffff;
 }
 .cid-tZbsva87jv .bg-instagram:hover {
